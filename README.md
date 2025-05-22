@@ -1,3 +1,4 @@
+                                                                                        Hi there 👋, I'm Karl
 - 👋 Hi, I’m SynTh
 - 👀 I’m interested in Web Development (HTML & CSS)
 - 🌱 I’m currently learning JavaScript and other languages
